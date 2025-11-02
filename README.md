@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 Теперь я умею создавать автоматические тесты, которые помогают делать код стабильнее и надёжнее 💪
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tested%20with-pytest-brightgreen?logo=pytest&logoColor=white" alt="pytest logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/pytest-dev/pytest/doc/en/_static/pytest_logo_curves.svg" alt="pytest logo" width="200"/>
 </p>
-
 
