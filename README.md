@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 Теперь я умею создавать автоматические тесты, которые помогают делать код стабильнее и надёжнее 💪
 
 <p align="center">
-  <img src="https://img.shields.io/badge/tested%20with-pytest-brightgreen?logo=pytest&logoColor=white" alt="pytest logo"/>
+  <img src="https://storage.tally.so/225a5e64-ebe2-49ea-8359-415c1ad93023/Pytest_logo.svg.png" alt="pytest logo" width="200"/>
 </p>
