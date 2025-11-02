@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 Теперь я умею создавать автоматические тесты, которые помогают делать код стабильнее и надёжнее 💪
 
 <p align="center">
-  <img src="https://docs.pytest.org/en/stable/_static/pytest_logo_curves.svg" alt="pytest logo" width="200"/>
-</p>
+  ![pytest logo](https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/_static/pytest_logo_curves.svg)
+
